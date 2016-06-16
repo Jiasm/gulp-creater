@@ -1,0 +1,24 @@
+{
+  "name": "gulp-creater",
+  "version": "0.0.1",
+  "description": "create a niubility gulpfile.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiasm/gulp-creater.git"
+  },
+  "keywords": [
+    "gulp",
+    "auto",
+    "create"
+  ],
+  "author": "jiasm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiasm/gulp-creater/issues"
+  },
+  "homepage": "https://github.com/Jiasm/gulp-creater#readme"
+}
