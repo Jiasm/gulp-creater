@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node index.js"
   },
+  "bin": {
+    "gulp-creater": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jiasm/gulp-creater.git"
