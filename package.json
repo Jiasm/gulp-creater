@@ -1,6 +1,6 @@
 {
   "name": "gulp-creater",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "create a niubility gulpfile.js",
   "main": "index.js",
   "scripts": {
